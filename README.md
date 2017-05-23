@@ -2,6 +2,7 @@
 This is the git training repository for the SDAL DSPG 2017 Students.
 
 Cartoons are great!
+I like the ice bear
 
 I like we bare bears
 
